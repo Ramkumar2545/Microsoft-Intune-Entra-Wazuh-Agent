@@ -1,4 +1,4 @@
-# Microsoft Intune + Entra ID Integrated Wazuh Agent Deployment
+# Microsoft Intune + Entra ID Integrated Wazuh Agent Deployment (Please Test In Non-Production One-time and Push To Production )
 
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue)
 ![Deployment](https://img.shields.io/badge/deployment-Microsoft%20Intune-0078D4)
